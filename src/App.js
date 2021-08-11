@@ -283,7 +283,7 @@ class App extends Component {
               )
             ) : (
               <div>
-                <h3>Please turn on the lamp</h3>
+                <h3>Klik pojok kiri atas.</h3>
               </div>
             )}
             <div
