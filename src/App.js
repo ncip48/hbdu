@@ -11,13 +11,13 @@ class App extends Component {
     ucapan: [
       "Semoga panjang umur",
       "Diberikan rejeki yg melimpah",
-      "Semoga sayang ke aku :v (ngarep)",
-      "Sehat selalu, kurang2in bucin wkwkkw",
+      "Semoga dapet bucinan yg pas",
+      "Sehat selalu",
       "Sayang orang tua, sayang semuanya",
     ], //edit untuk kata2
-    panggilan: ["Revina 😡"], //edit untuk panggilan
-    tanggal_lahir: "24/04/2004", //untuk edit tanggal lahir doi kau
-    nama: "Revvv", //edit untuk nama di ballon, maksimal 5 kata aja xixixi
+    panggilan: ["Dinda"], //edit untuk panggilan
+    tanggal_lahir: "11/08/2002", //untuk edit tanggal lahir doi kau
+    nama: "Dinda", //edit untuk nama di ballon, maksimal 5 kata aja xixixi
     warna: [
       "#FF6900",
       "#FCB900",
