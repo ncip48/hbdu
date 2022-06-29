@@ -10,14 +10,14 @@ class App extends Component {
   static defaultProps = {
     ucapan: [
       "Semoga panjang umur",
+      "Semoga selalu bucin sama ayangnya xixi",
       "Diberikan rejeki yg melimpah",
-      "Semoga dapet bucinan yg pas",
       "Sehat selalu",
       "Sayang orang tua, sayang semuanya",
     ], //edit untuk kata2
-    panggilan: ["Dinda"], //edit untuk panggilan
+    panggilan: ["Aini <3"], //edit untuk panggilan
     tanggal_lahir: "11/08/2002", //untuk edit tanggal lahir doi kau
-    nama: "Dinda", //edit untuk nama di ballon, maksimal 5 kata aja xixixi
+    nama: "Ainii", //edit untuk nama di ballon, maksimal 5 kata aja xixixi
     warna: [
       "#FF6900",
       "#FCB900",
